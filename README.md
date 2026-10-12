@@ -5,6 +5,7 @@
 ## 公開頁面
 
 - [政策首頁](https://funkeyyou.github.io/app-policies/)
+- [AI翻譯助手 隱私權政策](https://funkeyyou.github.io/app-policies/ai-translate-assistant/privacy.html)
 - [評評狸隱私政策](https://funkeyyou.github.io/app-policies/pingpingli/privacy.html)
 - [評評狸服務條款](https://funkeyyou.github.io/app-policies/pingpingli/terms.html)
 - [YomuReader AI 隱私權政策](https://funkeyyou.github.io/app-policies/yomureader/privacy.html)
