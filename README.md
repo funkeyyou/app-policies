@@ -1,6 +1,6 @@
 # App policies
 
-集中維護評評狸（PingPingLi）與 YomuReader AI 的公開隱私政策與服務條款。
+集中維護 AI翻譯助手、評評狸（PingPingLi）與 YomuReader AI 的公開隱私政策及適用的服務條款。
 
 ## 公開頁面
 
@@ -28,6 +28,9 @@ GitHub Pages 從 `main` 分支根目錄發布；`.nojekyll` 讓 HTML 直接發�
 | `pingpingli/terms.html` | `funkeyyou/PingPingLi` → `terms.html` |
 | `yomureader/privacy.html` | `funkeyyou/yomureader-privacy` → `docs/index.html` |
 
-舊政策網址保留入口並導向上述新頁面。App 和商店資訊可逐步更新為新網址。
-PingPingLi 的 Email 確認頁與管理頁仍由原倉庫提供。
+## 遷移後的倉庫與網址
+
+- **YomuReader AI**：App 尚未上線，舊政策倉庫 `funkeyyou/yomureader-privacy` 已刪除，不再保留舊網址入口。App 與之後的商店資訊請直接使用 [新政策網址](https://funkeyyou.github.io/app-policies/yomureader/privacy.html)，後續政策只在本倉庫維護。App 原始碼仍保存在 `funkeyyou/yomureader-ai`。
+- **PingPingLi**：原倉庫保留，舊 `privacy.html`、`terms.html` 導向本倉庫的政策頁，讓既有 App 與商店連結繼續可用；Email 確認頁與管理頁仍由原倉庫提供。
+
 `LiliBopomofo-models` 不在此次遷移範圍。
